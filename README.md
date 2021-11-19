@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HDarvish
 - 👀 I’m interested in Engineering and Art. 
 - 💞️ I’m looking to collaborate on "lithium ion battery thermal management system" and "vehicle to grid" projects.
-- 📫 How to reach me? Here is my email address: "darvish.mec@gmail.com"
+- 📫 How to reach me? Here is my email address: "hossein.darvish@unisalento.it"
 
 <!---
 HDarvish/HDarvish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
