@@ -8,6 +8,3 @@ HDarvish/HDarvish is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I should update this file sooner or later.
-
-I should update this file sooner or later 3.
